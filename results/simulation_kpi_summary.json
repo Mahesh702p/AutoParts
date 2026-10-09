@@ -1,0 +1,46 @@
+{
+  "evaluation_timestamp": "2026-10-09T23:38:06.681255",
+  "evaluation_period_days": 730,
+  "baseline_erp": {
+    "automotive": {
+      "fill_rate_pct": 95.06671188341384,
+      "stockout_days": 1623,
+      "purchase_orders": 1202,
+      "holding_cost_inr": 748814.0623999996,
+      "ordering_cost_inr": 601000.0,
+      "stockout_penalty_inr": 16474725.0,
+      "total_cost_inr": 17824539.062400002
+    },
+    "chemical": {
+      "fill_rate_pct": 90.87530690276515,
+      "stockout_days": 2054,
+      "purchase_orders": 664,
+      "holding_cost_inr": 233312.16579999996,
+      "ordering_cost_inr": 332000.0,
+      "stockout_penalty_inr": 11692180.0,
+      "expiry_waste_inr": 0.0,
+      "total_cost_inr": 12257492.1658
+    }
+  },
+  "proposed_hybrid_engine": {
+    "automotive": {
+      "fill_rate_pct": 99.65788629293203,
+      "stockout_days": 112,
+      "purchase_orders": 917,
+      "holding_cost_inr": 1132272.0336999996,
+      "ordering_cost_inr": 458500.0,
+      "stockout_penalty_inr": 1202535.0,
+      "total_cost_inr": 2793307.0336999996
+    },
+    "chemical": {
+      "fill_rate_pct": 99.23320068074298,
+      "stockout_days": 169,
+      "purchase_orders": 502,
+      "holding_cost_inr": 383139.3657999999,
+      "ordering_cost_inr": 251000.0,
+      "stockout_penalty_inr": 849960.0,
+      "expiry_waste_inr": 0.0,
+      "total_cost_inr": 1484099.3657999998
+    }
+  }
+}
